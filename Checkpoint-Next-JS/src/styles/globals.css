@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+  --background-image: url('/background.png');
+  --text-color: rgb(54, 54, 54);
+}
+
+.dark {
+  --background-image: url('/background-dark.png');
+  --text-color: rgb(184, 186, 189);
+}
+
+body {
+  background-image: var(--background-image);
+  color: var(--text-color);
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
