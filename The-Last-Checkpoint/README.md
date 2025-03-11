@@ -1,0 +1,2 @@
+# gomycode-last-checkpoint
+Ce bootcamp a été un voyage exceptionnel vers l'excellence. On a pu acquèrir lors de cette aventure les bases en frontend et en backend qui sont la clé pour entamer une carrière en tant que développeur Full Stack. On sort donc de cette formation en étant assez outillé pour relever de nouveaux défis et intégrer un environnement qui va nous permettre de progresser et faire valoir nos acquis.
