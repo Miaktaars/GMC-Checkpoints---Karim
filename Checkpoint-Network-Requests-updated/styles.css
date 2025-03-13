@@ -1,0 +1,16 @@
+body{
+    background-color: cornflowerblue !important;
+}
+/* Styles pour centrer le contenu au milieu du container */
+.container{
+    display: flex;
+    justify-content: center; /* Centre horizontalement */
+    align-items: center; /* Centre verticalement */
+    height: 100vh; /* Prend toute la hauteur de la fenêtre */
+    margin: 0; /* Supprime la marge par défaut du container*/
+}
+
+.fs{
+    font-size: 6rem;
+    color: white;
+}
